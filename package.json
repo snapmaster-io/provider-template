@@ -30,7 +30,7 @@
   "homepage": "https://github.com/snapmaster-io/provider-template#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-jwt": "^6.0.0",
     "jwks-rsa": "^1.7.0",
     "shelljs": "^0.8.3",
